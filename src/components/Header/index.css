@@ -1,0 +1,14 @@
+.header-navbar {
+	background-color: rgba(45, 45, 45, 0.98);
+	padding: 0 20px;
+	box-sizing: border-box;
+}
+
+.header-navbar-brand a {
+	font-size: 20px;
+	color: #fff;
+}
+.header-navbar-brand a:hover,
+a:focus {
+	color: #fff;
+}

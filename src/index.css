@@ -1,0 +1,54 @@
+.header-1 {
+	font-size: 36px;
+}
+.header-2 {
+	font-size: 30px;
+}
+.header-3 {
+	font-size: 24px;
+}
+.header-4 {
+	font-size: 18px;
+}
+.header-5 {
+	font-size: 12px;
+}
+.header-6 {
+	font-size: 6px;
+}
+.button {
+	border-radius: 1px !important;
+}
+.bg-white {
+	color: #000;
+	background-color: #fff !important;
+}
+
+.button.is-danger {
+	color: initial !important;
+}
+
+.custom_padding {
+	padding: 20px 50px;
+}
+
+.white {
+	color: #fff !important;
+}
+.pink {
+	color: #ff3860 !important;
+}
+
+.custom_uppercase {
+	text-transform: uppercase;
+}
+
+.center {
+	text-align: center;
+}
+.bg-cornsilk {
+	background-color: cornsilk;
+}
+.margin-bm-10 {
+	margin-bottom: 10px !important;
+}

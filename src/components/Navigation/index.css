@@ -1,0 +1,16 @@
+.navigation-tabs {
+	padding: 20px 0 0 0;
+	margin: 0 !important;
+}
+
+.navigation-tabs ul {
+	justify-content: space-between !important;
+}
+
+.navigation-tabs ul li.is-active a {
+	background-color: rgba(45, 45, 45, 0.98);
+	border-bottom-color: transparent;
+	color: #fff;
+	padding-right: 30px;
+	padding-left: 30px;
+}

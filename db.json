@@ -1,0 +1,65 @@
+{
+  "history": [
+    {
+      "sno": 1,
+      "name": "John1",
+      "place": "Unknown1",
+      "disease": "disease1",
+      "dob": "2201"
+    },
+    {
+      "sno": 2,
+      "name": "John2",
+      "place": "Unknown2",
+      "disease": "disease2",
+      "dob": "2202"
+    },
+    {
+      "sno": 3,
+      "name": "John3",
+      "place": "Unknown3",
+      "disease": "disease3",
+      "dob": "2203"
+    },
+    {
+      "sno": 4,
+      "name": "John4",
+      "place": "Unknown4",
+      "disease": "disease4",
+      "dob": "2204"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fields": [],
+      "folders": [
+        {
+          "id": 1,
+          "name": "priyesh",
+          "created": "May 22, 2019",
+          "updated": "May 22, 2019",
+          "files": []
+        },
+        {
+          "id": 2,
+          "name": "Chandra",
+          "created": "May 22, 2019",
+          "updated": "May 22, 2019",
+          "files": []
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": 2,
+      "fields": null,
+      "folders": []
+    },
+    {
+      "id": 3,
+      "fields": null,
+      "folders": []
+    }
+  ]
+}
